@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div id="calculator">
+		<div id="display">0</div>
+		<button onclick="limpar()">AC</button>
+		<button onclick="obterPorcento()">%</button>
+		<button onclick="iniciarCalculo('*')">x</button>
+		<button onclick="iniciarCalculo('/')">/</button>
+		<button onclick="incluirDigito('7')">7</button>
+		<button onclick="incluirDigito('8')">8</button>
+		<button onclick="incluirDigito('9')">9</button>
+		<button onclick="finalizarCalculo()">=</button>
+		<button onclick="incluirDigito('4')">4</button>
+		<button onclick="incluirDigito('5')">5</button>
+		<button onclick="incluirDigito('6')">6</button>
+		<button onclick="iniciarCalculo('-')">-</button>
+		<button onclick="incluirDigito('1')">1</button>
+		<button onclick="incluirDigito('2')">2</button>
+		<button onclick="incluirDigito('3')">3</button>
+		<button onclick="iniciarCalculo('+')" class="mais">+</button>
+		<button class="zero" onclick="incluirDigito('0')">0</button>
+		<button onclick="incluirPonto()">,</button>
+	</div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
