@@ -39,8 +39,8 @@ Aplicação desenvolvida com HTML, CSS e a linguagem JavaScript pura.
 - #c5c5c5<br>
 - #e0e0e0<br>
 - #adadad<br>
-- #fffff<br>
-- #00000<br>
+- #fff<br>
+- #000<br>
 
 ## Tipo de fonte:
 - **sans-serif**
