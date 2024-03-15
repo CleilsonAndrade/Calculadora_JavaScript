@@ -7,7 +7,6 @@
 # 📒 Índice
 
 * [Descrição](#descrição)
-* [Features](#features) 
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
