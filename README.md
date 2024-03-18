@@ -5,7 +5,6 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
@@ -45,7 +44,6 @@ Aplicação desenvolvida com HTML, CSS e a linguagem JavaScript pura.
   $ cd ./Calculadora_JavaScript
 ```
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
