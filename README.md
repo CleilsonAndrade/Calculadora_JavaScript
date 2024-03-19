@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Calculadora JavaScript</h1>
-  <p>Calculadora básica feita em HTML, CSS e JavaScript.</p>
+  <p>Aplicação desenvolvida com HTML, CSS e a linguagem JavaScript pura, com intuito de estudos sobre logica de programação.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
@@ -14,7 +14,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Aplicação desenvolvida com HTML, CSS e a linguagem JavaScript pura.
+Aplicação desenvolvida com HTML, CSS e a linguagem JavaScript pura, com intuito de estudos sobre logica de programação.
 
 # 💻 <span id="tecnologias">Tecnologias</span>
 - **HTML**
