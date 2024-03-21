@@ -35,12 +35,12 @@ Aplicação desenvolvida com HTML, CSS e a linguagem JavaScript pura, com intuit
   * #000<br>
 
 - <span id="fontes">Fontes<br></span>
-  * sans-serif
+  * Arial, Helvetica, sans-serif
 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/Calculadora_JavaScript
+  $ git clone https://github.com/CleilsonAndrade/Calculadora_JavaScript.git
   $ cd ./Calculadora_JavaScript
 ```
 # 📝 <span id="licença">Licença</span>
